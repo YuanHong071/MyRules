@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com,微信消息
 USER-AGENT,MicroMessenger*,微信消息
 USER-AGENT,WeChat*,微信消息
 IP-ASN,132203,no-resolve,微信消息
-
+FINAL,微信消息
 
 
 # --- 電報 (Telegram) ---
