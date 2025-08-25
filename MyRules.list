@@ -5734,7 +5734,7 @@ IP-CIDR,183.128.0.0/11,国内规则,no-resolve
 IP-CIDR,185.188.32.0/22,国内规则,no-resolve
 IP-CIDR,203.205.238.0/23,国内规则,no-resolve
 IP-CIDR,203.205.254.0/23,国内规则,no-resolve
-
+FINAL,國內規則
 
 # --- 國際媒體 (GlobalMedia) ---
 # 規則策略組: 国际媒体
