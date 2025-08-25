@@ -121,9 +121,12 @@ DOMAIN-SUFFIX,sentry.io,智能助手
 DOMAIN-SUFFIX,stripe.com,智能助手
 DOMAIN-SUFFIX,turn.livekit.cloud,智能助手
 DOMAIN-KEYWORD,openai,智能助手
-IP-CIDR,24.199.123.28/32,no-resolve,智能助手
-IP-CIDR,64.23.132.171/32,no-resolve,智能助手
-IP-ASN,20473,no-resolve,智能助手
+IP-CIDR,24.199.123.28/32,智能助手,no-resolve
+IP-CIDR,64.23.132.171/32,智能助手,no-resolve
+IP-ASN,14061,智能助手,no-resolve
+IP-ASN,20473,智能助手,no-resolve
+FINAL,智能助手
+
 
 # NAME: Copilot
 # UPDATED: 2025-06-06
