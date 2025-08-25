@@ -69,19 +69,20 @@ DOMAIN-SUFFIX,tg.dev,電報消息
 DOMAIN-SUFFIX,tx.me,電報消息
 DOMAIN-SUFFIX,usercontent.dev,電報消息
 DOMAIN-KEYWORD,nicegram,電報消息
-IP-CIDR,109.239.140.0/24,no-resolve,電報消息
-IP-CIDR,149.154.160.0/20,no-resolve,電報消息
-IP-CIDR,2001:67c:4e8::/48,no-resolve,電報消息
-IP-CIDR,2001:b28:f23c::/47,no-resolve,電報消息
-IP-CIDR,2001:b28:f23f::/48,no-resolve,電報消息
-IP-CIDR,2a0a:f280::/29,no-resolve,電報消息
-IP-CIDR,5.28.192.0/18,no-resolve,電報消息
-IP-CIDR,91.108.0.0/16,no-resolve,電報消息
-IP-ASN,211157,no-resolve,電報消息
-IP-ASN,44907,no-resolve,電報消息
-IP-ASN,59930,no-resolve,電報消息
-IP-ASN,62014,no-resolve,電報消息
-IP-ASN,62041,no-resolve,電報消息
+IP-CIDR,109.239.140.0/24,電報消息,no-resolve
+IP-CIDR,149.154.160.0/20,電報消息,no-resolve
+IP-CIDR,5.28.192.0/18,電報消息,no-resolve
+IP-CIDR,91.108.0.0/16,電報消息,no-resolve
+IP-CIDR,2001:67c:4e8::/48,電報消息,no-resolve
+IP-CIDR,2001:b28:f23c::/47,電報消息,no-resolve
+IP-CIDR,2001:b28:f23f::/48,電報消息,no-resolve
+IP-CIDR,2a0a:f280::/29,電報消息,no-resolve
+IP-ASN,44907,電報消息,no-resolve
+IP-ASN,59930,電報消息,no-resolve
+IP-ASN,62014,電報消息,no-resolve
+IP-ASN,62041,電報消息,no-resolve
+IP-ASN,211157,電報消息,no-resolve
+FINAL,電報消息
 
 
 
